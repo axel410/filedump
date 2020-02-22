@@ -2,20 +2,6 @@
   "name": "flare",
   "children": [
     {
-      "name": "Segment",
-      "children": [
-        {
-          "name": "Secteur",
-          "children": [
-            {
-              "name": "Filiale",
-              "size": "TrafficCA"
-            }
-          ]
-        }
-      ]
-    },
-    {
       "name": "Produits et Services de Consommation",
       "children": [
         {
