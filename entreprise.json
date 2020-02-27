@@ -8,76 +8,36 @@
           "name": "Alimentation",
           "children": [
             {
-              "name": "Metro",
-              "children": [
-                {
-                  "value1": 1276775,
-                  "value2": 421336
-                }
-              ]
+              "metro": "Metro",
+              "size": 1276775
             },
             {
-              "name": "Super C",
-              "children": [
-                {
-                  "value1": 175174,
-                  "value2": 169919
-                }
-              ]
+              "metro": "Super C",
+              "size": 175174
             },
             {
-              "name": "IGA",
-              "children": [
-                {
-                  "value1": 941514,
-                  "value2": 743796
-                }
-              ]
+              "metro": "IGA",
+              "size": 941514
             },
             {
-              "name": "Loblaws",
-              "children": [
-                {
-                  "value1": 396692,
-                  "value2": 15868
-                }
-              ]
+              "metro": "Loblaws",
+              "size": 396692
             },
             {
-              "name": "Provigo",
-              "children": [
-                {
-                  "value1": 130673,
-                  "value2": 125446
-                }
-              ]
+              "metro": "Provigo",
+              "size": 130673
             },
             {
-              "name": "Maxi",
-              "children": [
-                {
-                  "value1": 213594,
-                  "value2": 211458
-                }
-              ]
+              "metro": "Maxi",
+              "size": 213594
             },
             {
-              "name": "Alimentation Couche-Tard",
-              "children": [
-                {
-                  "value1": 53342,
-                  "value2": 50675
-                }
-              ]
+              "metro": "Alimentation Couche-Tard",
+              "size": 53342
             },
             {
-              "name": "Saputo",
-              "children": [
-                {
-                  "value1": 23745,
-                  "value2": 11635
-                }
-              ]
+              "metro": "Saputo",
+              "size": 23745
             }
           ]
         },
@@ -85,31 +45,16 @@
           "name": "Santé",
           "children": [
             {
-              "name": "Jean Coutu",
-              "children": [
-                {
-                  "value1": 1136505,
-                  "value2": 1136505
-                }
-              ]
+              "metro": "Jean Coutu",
+              "size": 1136505
             },
             {
-              "name": "Brunet",
-              "children": [
-                {
-                  "value1": 240566,
-                  "value2": 204481
-                }
-              ]
+              "metro": "Brunet",
+              "size": 240566
             },
             {
-              "name": "Familiprix",
-              "children": [
-                {
-                  "value1": 507633,
-                  "value2": 436564
-                }
-              ]
+              "metro": "Familiprix",
+              "size": 507633
             }
           ]
         },
@@ -117,40 +62,20 @@
           "name": "Restauration",
           "children": [
             {
-              "name": "Mcdonald",
-              "children": [
-                {
-                  "value1": 1782884,
-                  "value2": 303090
-                }
-              ]
+              "metro": "Mcdonald",
+              "size": 1782884
             },
             {
-              "name": "St-Hubert (Groupe)",
-              "children": [
-                {
-                  "value1": 477813,
-                  "value2": 463479
-                }
-              ]
+              "metro": "St-Hubert (Groupe)",
+              "size": 477813
             },
             {
-              "name": "Sportscene (Groupe)",
-              "children": [
-                {
-                  "value1": 79561,
-                  "value2": 79561
-                }
-              ]
+              "metro": "Sportscene (Groupe)",
+              "size": 79561
             },
             {
-              "name": "Boston Pizza International",
-              "children": [
-                {
-                  "value1": 841819,
-                  "value2": 101018
-                }
-              ]
+              "metro": "Boston Pizza International",
+              "size": 841819
             }
           ]
         },
@@ -158,103 +83,48 @@
           "name": "Vente au détail",
           "children": [
             {
-              "name": "Walmart Canada",
-              "children": [
-                {
-                  "value1": 15251938,
-                  "value2": 3202907
-                }
-              ]
+              "metro": "Walmart Canada",
+              "size": 15251938
             },
             {
-              "name": "Lowe's Canada",
-              "children": [
-                {
-                  "value1": 2863254,
-                  "value2": 1202567
-                }
-              ]
+              "metro": "Lowe's Canada",
+              "size": 2863254
             },
             {
-              "name": "Costco (Les entrepôts)",
-              "children": [
-                {
-                  "value1": 7619154,
-                  "value2": 1371448
-                }
-              ]
+              "metro": "Costco (Les entrepôts)",
+              "size": 7619154
             },
             {
-              "name": "Dollarama",
-              "children": [
-                {
-                  "value1": 1085614,
-                  "value2": 260547
-                }
-              ]
+              "metro": "Dollarama",
+              "size": 1085614
             },
             {
-              "name": "Canac",
-              "children": [
-                {
-                  "value1": 755050,
-                  "value2": 755050
-                }
-              ]
+              "metro": "Canac",
+              "size": 755050
             },
             {
-              "name": "Home Depot",
-              "children": [
-                {
-                  "value1": 9226069,
-                  "value2": 1199389
-                }
-              ]
+              "metro": "Home Depot",
+              "size": 9226069
             },
             {
-              "name": "ALDO (Le Groupe)",
-              "children": [
-                {
-                  "value1": 592782,
-                  "value2": 165979
-                }
-              ]
+              "metro": "ALDO (Le Groupe)",
+              "size": 592782
             },
             {
-              "name": "Bureau en gros",
-              "children": [
-                {
-                  "value1": 92319,
-                  "value2": 91396
-                }
-              ]
+              "metro": "Bureau en gros",
+              "size": 92319
             },
             {
-              "name": "IKEA Canada",
-              "children": [
-                {
-                  "value1": 5879056,
-                  "value2": 1763717
-                }
-              ]
+              "metro": "IKEA Canada",
+              "size": 5879056
             },
             {
-              "name": "Best Buy Canada",
-              "children": [
-                {
-                  "value1": 8431358,
-                  "value2": 1770585
-                }
-              ]
+              "metro": "Best Buy Canada",
+              "size": 8431358
             },
             {
-              "name": "Marie-Claire (Groupe)",
-              "children": [
-                {
-                  "value1": 10984,
-                  "value2": 9666
-                }
-              ]
+              "metro": "Marie-Claire (Groupe)",
+              "size": 10984
             }
           ]
         },
@@ -262,22 +132,12 @@
           "name": "Divertissement",
           "children": [
             {
-              "name": "Ubisoft Divertissements",
-              "children": [
-                {
-                  "value1": 515876,
-                  "value2": 144445
-                }
-              ]
+              "metro": "Ubisoft Divertissements",
+              "size": 515876
             },
             {
-              "name": "Keywords Studios",
-              "children": [
-                {
-                  "value1": 2839,
-                  "value2": 1987
-                }
-              ]
+              "metro": "Keywords Studios",
+              "size": 2839
             }
           ]
         },
@@ -285,13 +145,8 @@
           "name": "Agroalimentaire",
           "children": [
             {
-              "name": "Agropur coopérative",
-              "children": [
-                {
-                  "value1": 18216,
-                  "value2": 11476
-                }
-              ]
+              "metro": "Agropur coopérative",
+              "size": 18216
             }
           ]
         },
@@ -299,58 +154,28 @@
           "name": "Véhicule",
           "children": [
             {
-              "name": "BRP (Bombardier Produits Récréatifs)",
-              "children": [
-                {
-                  "value1": 154525,
-                  "value2": 57174
-                }
-              ]
+              "metro": "BRP (Bombardier Produits Récréatifs)",
+              "size": 154525
             },
             {
-              "name": "Sea-Doo",
-              "children": [
-                {
-                  "value1": 36120,
-                  "value2": 7946
-                }
-              ]
+              "metro": "Sea-Doo",
+              "size": 36120
             },
             {
-              "name": "Ski-Doo",
-              "children": [
-                {
-                  "value1": 128624,
-                  "value2": 47591
-                }
-              ]
+              "metro": "Ski-Doo",
+              "size": 128624
             },
             {
-              "name": "Can-am",
-              "children": [
-                {
-                  "value1": 154525,
-                  "value2": 57174
-                }
-              ]
+              "metro": "Can-am",
+              "size": 154525
             },
             {
-              "name": "HGrégoire",
-              "children": [
-                {
-                  "value1": 155762,
-                  "value2": 154204
-                }
-              ]
+              "metro": "HGrégoire",
+              "size": 155762
             },
             {
-              "name": "UAP - Napa",
-              "children": [
-                {
-                  "value1": 430736,
-                  "value2": 86147
-                }
-              ]
+              "metro": "UAP - Napa",
+              "size": 430736
             }
           ]
         }
@@ -363,76 +188,36 @@
           "name": "Banque",
           "children": [
             {
-              "name": "Desjardins",
-              "children": [
-                {
-                  "value1": 6047517,
-                  "value2": 5745141
-                }
-              ]
+              "metro": "Desjardins",
+              "size": 6047517
             },
             {
-              "name": "Banque Nationale",
-              "children": [
-                {
-                  "value1": 1264163,
-                  "value2": 1238880
-                }
-              ]
+              "metro": "Banque Nationale",
+              "size": 1264163
             },
             {
-              "name": "Banque Royale du Canada",
-              "children": [
-                {
-                  "value1": 7663961,
-                  "value2": 1149594
-                }
-              ]
+              "metro": "Banque Royale du Canada",
+              "size": 7663961
             },
             {
-              "name": "Banque TD (Groupe)",
-              "children": [
-                {
-                  "value1": 6806623,
-                  "value2": 680662
-                }
-              ]
+              "metro": "Banque TD (Groupe)",
+              "size": 6806623
             },
             {
-              "name": "BMO Groupe financier",
-              "children": [
-                {
-                  "value1": 3751927,
-                  "value2": 787905
-                }
-              ]
+              "metro": "BMO Groupe financier",
+              "size": 3751927
             },
             {
-              "name": "Banque CIBC",
-              "children": [
-                {
-                  "value1": 3499219,
-                  "value2": 314930
-                }
-              ]
+              "metro": "Banque CIBC",
+              "size": 3499219
             },
             {
-              "name": "Banque Laurentienne Groupe Financier",
-              "children": [
-                {
-                  "value1": 396334,
-                  "value2": 396334
-                }
-              ]
+              "metro": "Banque Laurentienne Groupe Financier",
+              "size": 396334
             },
             {
-              "name": "Banque Scotia",
-              "children": [
-                {
-                  "value1": 4196730,
-                  "value2": 377706
-                }
-              ]
+              "metro": "Banque Scotia",
+              "size": 4196730
             }
           ]
         },
@@ -440,67 +225,32 @@
           "name": "Assurance",
           "children": [
             {
-              "name": "Intact Corporation financière",
-              "children": [
-                {
-                  "value1": 212317,
-                  "value2": 82804
-                }
-              ]
+              "metro": "Intact Corporation financière",
+              "size": 212317
             },
             {
-              "name": "iA Groupe financier [anc. Industrielle Alliance]",
-              "children": [
-                {
-                  "value1": 157542,
-                  "value2": 157542
-                }
-              ]
+              "metro": "iA Groupe financier [anc. Industrielle Alliance]",
+              "size": 157542
             },
             {
-              "name": "La Capitale Assurance et services financiers",
-              "children": [
-                {
-                  "value1": 145999,
-                  "value2": 144539
-                }
-              ]
+              "metro": "La Capitale Assurance et services financiers",
+              "size": 145999
             },
             {
-              "name": "Financière Sun Life",
-              "children": [
-                {
-                  "value1": 704187,
-                  "value2": 105628
-                }
-              ]
+              "metro": "Financière Sun Life",
+              "size": 704187
             },
             {
-              "name": "Manuvie",
-              "children": [
-                {
-                  "value1": 20248,
-                  "value2": 19843
-                }
-              ]
+              "metro": "Manuvie",
+              "size": 20248
             },
             {
-              "name": "Promutuel (Groupe)",
-              "children": [
-                {
-                  "value1": 42987,
-                  "value2": 42987
-                }
-              ]
+              "metro": "Promutuel (Groupe)",
+              "size": 42987
             },
             {
-              "name": "SSQ Assurance",
-              "children": [
-                {
-                  "value1": 178254,
-                  "value2": 155081
-                }
-              ]
+              "metro": "SSQ Assurance",
+              "size": 178254
             }
           ]
         },
@@ -508,22 +258,12 @@
           "name": "Service Financier",
           "children": [
             {
-              "name": "Power Corporation du Canada",
-              "children": [
-                {
-                  "value1": 8810,
-                  "value2": 3612
-                }
-              ]
+              "metro": "Power Corporation du Canada",
+              "size": 8810
             },
             {
-              "name": "Raymond Chabot Grant Thornton",
-              "children": [
-                {
-                  "value1": 27316,
-                  "value2": 22126
-                }
-              ]
+              "metro": "Raymond Chabot Grant Thornton",
+              "size": 27316
             }
           ]
         }
@@ -536,13 +276,8 @@
           "name": "Énergie",
           "children": [
             {
-              "name": "Hydro-Québec",
-              "children": [
-                {
-                  "value1": 982720,
-                  "value2": 982720
-                }
-              ]
+              "metro": "Hydro-Québec",
+              "size": 982720
             }
           ]
         },
@@ -550,13 +285,8 @@
           "name": "Transport",
           "children": [
             {
-              "name": "Société de transport de Montréal (STM)",
-              "children": [
-                {
-                  "value1": 1333680,
-                  "value2": 1213649
-                }
-              ]
+              "metro": "Société de transport de Montréal (STM)",
+              "size": 1333680
             }
           ]
         },
@@ -564,13 +294,8 @@
           "name": "Lotterie",
           "children": [
             {
-              "name": "Loto-Québec",
-              "children": [
-                {
-                  "value1": 2748894,
-                  "value2": 2748894
-                }
-              ]
+              "metro": "Loto-Québec",
+              "size": 2748894
             }
           ]
         },
@@ -578,13 +303,8 @@
           "name": "Alimentation",
           "children": [
             {
-              "name": "Société des Alcools du Québec (SAQ)",
-              "children": [
-                {
-                  "value1": 1199210,
-                  "value2": 1187218
-                }
-              ]
+              "metro": "Société des Alcools du Québec (SAQ)",
+              "size": 1199210
             }
           ]
         },
@@ -592,13 +312,8 @@
           "name": "Assurance automobile",
           "children": [
             {
-              "name": "Société de l'assurance automobile du Québec",
-              "children": [
-                {
-                  "value1": 6439043,
-                  "value2": 6310262
-                }
-              ]
+              "metro": "Société de l'assurance automobile du Québec",
+              "size": 6439043
             }
           ]
         },
@@ -606,13 +321,8 @@
           "name": "Patrimoine",
           "children": [
             {
-              "name": "Caisse de dépôt et placement du Québec",
-              "children": [
-                {
-                  "value1": 12943,
-                  "value2": 9966
-                }
-              ]
+              "metro": "Caisse de dépôt et placement du Québec",
+              "size": 12943
             }
           ]
         }
@@ -625,13 +335,8 @@
           "name": "Industrie",
           "children": [
             {
-              "name": "Bombardier",
-              "children": [
-                {
-                  "value1": 170950,
-                  "value2": 1486921
-                }
-              ]
+              "metro": "Bombardier",
+              "size": 170950
             }
           ]
         },
@@ -639,22 +344,12 @@
           "name": "Agroalimentaire",
           "children": [
             {
-              "name": "La Coop fédérée",
-              "children": [
-                {
-                  "value1": 5124,
-                  "value2": 4612
-                }
-              ]
+              "metro": "La Coop fédérée",
+              "size": 5124
             },
             {
-              "name": "Exceldor coopérative",
-              "children": [
-                {
-                  "value1": 24382,
-                  "value2": 19018
-                }
-              ]
+              "metro": "Exceldor coopérative",
+              "size": 24382
             }
           ]
         },
@@ -662,67 +357,32 @@
           "name": "Transformation",
           "children": [
             {
-              "name": "Rio Tinto",
-              "children": [
-                {
-                  "value1": 29424,
-                  "value2": 11475
-                }
-              ]
+              "metro": "Rio Tinto",
+              "size": 29424
             },
             {
-              "name": "Produits forestiers Résolu",
-              "children": [
-                {
-                  "value1": 9833,
-                  "value2": 4523
-                }
-              ]
+              "metro": "Produits forestiers Résolu",
+              "size": 9833
             },
             {
-              "name": "Cascades",
-              "children": [
-                {
-                  "value1": 21834,
-                  "value2": 10917
-                }
-              ]
+              "metro": "Cascades",
+              "size": 21834
             },
             {
-              "name": "Kruger",
-              "children": [
-                {
-                  "value1": 11266,
-                  "value2": 8337
-                }
-              ]
+              "metro": "Kruger",
+              "size": 11266
             },
             {
-              "name": "ArcelorMittal Exploitation minière Canada",
-              "children": [
-                {
-                  "value1": 2675,
-                  "value2": 2220
-                }
-              ]
+              "metro": "ArcelorMittal Exploitation minière Canada",
+              "size": 2675
             },
             {
-              "name": "AIM - Fer & Métaux Américains",
-              "children": [
-                {
-                  "value1": 4383,
-                  "value2": 3243
-                }
-              ]
+              "metro": "AIM - Fer & Métaux Américains",
+              "size": 4383
             },
             {
-              "name": "WestRock",
-              "children": [
-                {
-                  "value1": 8013,
-                  "value2": 5048
-                }
-              ]
+              "metro": "WestRock",
+              "size": 8013
             }
           ]
         },
@@ -730,13 +390,8 @@
           "name": "Aviation",
           "children": [
             {
-              "name": "Pratt & Whitney Canada",
-              "children": [
-                {
-                  "value1": 19110,
-                  "value2": 12613
-                }
-              ]
+              "metro": "Pratt & Whitney Canada",
+              "size": 19110
             }
           ]
         }
@@ -749,85 +404,40 @@
           "name": "Médias",
           "children": [
             {
-              "name": "Bell",
-              "children": [
-                {
-                  "value1": 3034953,
-                  "value2": 819437
-                }
-              ]
+              "metro": "Bell",
+              "size": 3034953
             },
             {
-              "name": "RDS",
-              "children": [
-                {
-                  "value1": 1486921,
-                  "value2": 1278752
-                }
-              ]
+              "metro": "RDS",
+              "size": 1486921
             },
             {
-              "name": "Canal D",
-              "children": [
-                {
-                  "value1": 27245,
-                  "value2": 26155
-                }
-              ]
+              "metro": "Canal D",
+              "size": 27245
             },
             {
-              "name": "Canal Vie",
-              "children": [
-                {
-                  "value1": 867917,
-                  "value2": 850559
-                }
-              ]
+              "metro": "Canal Vie",
+              "size": 867917
             },
             {
-              "name": "TSN",
-              "children": [
-                {
-                  "value1": 3065219,
-                  "value2": 214565
-                }
-              ]
+              "metro": "TSN",
+              "size": 3065219
             },
             {
-              "name": "Québecor",
-              "children": [
-                {
-                  "value1": 18402,
-                  "value2": 16930
-                }
-              ]
+              "metro": "Québecor",
+              "size": 18402
             },
             {
-              "name": "Vidéotron",
-              "children": [
-                {
-                  "value1": 1551073,
-                  "value2": 1473519
-                }
-              ]
+              "metro": "Vidéotron",
+              "size": 1551073
             },
             {
-              "name": "Journal de Montréal",
-              "children": [
-                {
-                  "value1": 2435370,
-                  "value2": 2411016
-                }
-              ]
+              "metro": "Journal de Montréal",
+              "size": 2435370
             },
             {
-              "name": "CBC/Radio-Canada",
-              "children": [
-                {
-                  "value1": 2805195,
-                  "value2": 2328312
-                }
-              ]
+              "metro": "CBC/Radio-Canada",
+              "size": 2805195
             }
           ]
         },
@@ -835,22 +445,12 @@
           "name": "Technologie",
           "children": [
             {
-              "name": "CGI",
-              "children": [
-                {
-                  "value1": 49946,
-                  "value2": 25972
-                }
-              ]
+              "metro": "CGI",
+              "size": 49946
             },
             {
-              "name": "ABB",
-              "children": [
-                {
-                  "value1": 61373,
-                  "value2": 34369
-                }
-              ]
+              "metro": "ABB",
+              "size": 61373
             }
           ]
         },
@@ -858,49 +458,24 @@
           "name": "Communication",
           "children": [
             {
-              "name": "TELUS",
-              "children": [
-                {
-                  "value1": 2454168,
-                  "value2": 343584
-                }
-              ]
+              "metro": "TELUS",
+              "size": 2454168
             },
             {
-              "name": "Rogers Communications",
-              "children": [
-                {
-                  "value1": 2420569,
-                  "value2": 266263
-                }
-              ]
+              "metro": "Rogers Communications",
+              "size": 2420569
             },
             {
-              "name": "TC Transcontinental",
-              "children": [
-                {
-                  "value1": 10949,
-                  "value2": 5475
-                }
-              ]
+              "metro": "TC Transcontinental",
+              "size": 10949
             },
             {
-              "name": "COGECO",
-              "children": [
-                {
-                  "value1": 561504,
-                  "value2": 129146
-                }
-              ]
+              "metro": "COGECO",
+              "size": 561504
             },
             {
-              "name": "Telecon",
-              "children": [
-                {
-                  "value1": 5887,
-                  "value2": 2414
-                }
-              ]
+              "metro": "Telecon",
+              "size": 5887
             }
           ]
         }
@@ -913,31 +488,16 @@
           "name": "Sécurité",
           "children": [
             {
-              "name": "GardaWorld (Corporation de sécurité Garda World)",
-              "children": [
-                {
-                  "value1": 57790,
-                  "value2": 20227
-                }
-              ]
+              "metro": "GardaWorld (Corporation de sécurité Garda World)",
+              "size": 57790
             },
             {
-              "name": "Securitas",
-              "children": [
-                {
-                  "value1": 12900,
-                  "value2": 4128
-                }
-              ]
+              "metro": "Securitas",
+              "size": 12900
             },
             {
-              "name": "Gardium Sécurité",
-              "children": [
-                {
-                  "value1": 1026,
-                  "value2": 944
-                }
-              ]
+              "metro": "Gardium Sécurité",
+              "size": 1026
             }
           ]
         },
@@ -945,22 +505,12 @@
           "name": "Entretien",
           "children": [
             {
-              "name": "GDI Services aux Immeubles",
-              "children": [
-                {
-                  "value1": 8971,
-                  "value2": 4575
-                }
-              ]
+              "metro": "GDI Services aux Immeubles",
+              "size": 8971
             },
             {
-              "name": "Services Ménagers Roy (Les)",
-              "children": [
-                {
-                  "value1": 1912,
-                  "value2": 1893
-                }
-              ]
+              "metro": "Services Ménagers Roy (Les)",
+              "size": 1912
             }
           ]
         },
@@ -968,13 +518,8 @@
           "name": "Alimentation",
           "children": [
             {
-              "name": "Compass (Groupe)",
-              "children": [
-                {
-                  "value1": 16820,
-                  "value2": 2018
-                }
-              ]
+              "metro": "Compass (Groupe)",
+              "size": 16820
             }
           ]
         },
@@ -982,58 +527,28 @@
           "name": "Conseils / Gestion",
           "children": [
             {
-              "name": "CAE",
-              "children": [
-                {
-                  "value1": 20766,
-                  "value2": 13913
-                }
-              ]
+              "metro": "CAE",
+              "size": 20766
             },
             {
-              "name": "Deloitte",
-              "children": [
-                {
-                  "value1": 135075,
-                  "value2": 22963
-                }
-              ]
+              "metro": "Deloitte",
+              "size": 135075
             },
             {
-              "name": "Nordia",
-              "children": [
-                {
-                  "value1": 9475,
-                  "value2": 5117
-                }
-              ]
+              "metro": "Nordia",
+              "size": 9475
             },
             {
-              "name": "CoFoMo",
-              "children": [
-                {
-                  "value1": 2517,
-                  "value2": 2290
-                }
-              ]
+              "metro": "CoFoMo",
+              "size": 2517
             },
             {
-              "name": "Drakkar",
-              "children": [
-                {
-                  "value1": 5249,
-                  "value2": 4147
-                }
-              ]
+              "metro": "Drakkar",
+              "size": 5249
             },
             {
-              "name": "Morneau Shepell",
-              "children": [
-                {
-                  "value1": 36762,
-                  "value2": 12499
-                }
-              ]
+              "metro": "Morneau Shepell",
+              "size": 36762
             }
           ]
         }
@@ -1046,40 +561,20 @@
           "name": "Transport",
           "children": [
             {
-              "name": "Air Canada",
-              "children": [
-                {
-                  "value1": 4267523,
-                  "value2": 810829
-                }
-              ]
+              "metro": "Air Canada",
+              "size": 4267523
             },
             {
-              "name": "CN [Canadien National]",
-              "children": [
-                {
-                  "value1": 139291,
-                  "value2": 29251
-                }
-              ]
+              "metro": "CN [Canadien National]",
+              "size": 139291
             },
             {
-              "name": "Transat A.T.",
-              "children": [
-                {
-                  "value1": 464802,
-                  "value2": 250993
-                }
-              ]
+              "metro": "Transat A.T.",
+              "size": 464802
             },
             {
-              "name": "Via Rail Canada",
-              "children": [
-                {
-                  "value1": 1037937,
-                  "value2": 404795
-                }
-              ]
+              "metro": "Via Rail Canada",
+              "size": 1037937
             }
           ]
         },
@@ -1087,22 +582,12 @@
           "name": "Transport de marchandise",
           "children": [
             {
-              "name": "Robert (Groupe)",
-              "children": [
-                {
-                  "value1": 11584,
-                  "value2": 8804
-                }
-              ]
+              "metro": "Robert (Groupe)",
+              "size": 11584
             },
             {
-              "name": "UPS Canada",
-              "children": [
-                {
-                  "value1": 1078736,
-                  "value2": 204960
-                }
-              ]
+              "metro": "UPS Canada",
+              "size": 1078736
             }
           ]
         }
@@ -1115,40 +600,20 @@
           "name": "Immobilier",
           "children": [
             {
-              "name": "Sélection (Groupe) [anc. Réseau Sélection]",
-              "children": [
-                {
-                  "value1": 13875,
-                  "value2": 12210
-                }
-              ]
+              "metro": "Sélection (Groupe) [anc. Réseau Sélection]",
+              "size": 13875
             },
             {
-              "name": "Cogir Immobilier",
-              "children": [
-                {
-                  "value1": 13419,
-                  "value2": 9125
-                }
-              ]
+              "metro": "Cogir Immobilier",
+              "size": 13419
             },
             {
-              "name": "Savoie (Groupe)",
-              "children": [
-                {
-                  "value1": 10147,
-                  "value2": 10046
-                }
-              ]
+              "metro": "Savoie (Groupe)",
+              "size": 10147
             },
             {
-              "name": "Maurice (Groupe)",
-              "children": [
-                {
-                  "value1": 24748,
-                  "value2": 23511
-                }
-              ]
+              "metro": "Maurice (Groupe)",
+              "size": 24748
             }
           ]
         },
@@ -1156,67 +621,32 @@
           "name": "Ingénierie",
           "children": [
             {
-              "name": "SNC-Lavalin (Groupe)",
-              "children": [
-                {
-                  "value1": 108294,
-                  "value2": 27074
-                }
-              ]
+              "metro": "SNC-Lavalin (Groupe)",
+              "size": 108294
             },
             {
-              "name": "WSP Global (Groupe)",
-              "children": [
-                {
-                  "value1": 47293,
-                  "value2": 12769
-                }
-              ]
+              "metro": "WSP Global (Groupe)",
+              "size": 47293
             },
             {
-              "name": "EBC",
-              "children": [
-                {
-                  "value1": 7813,
-                  "value2": 4453
-                }
-              ]
+              "metro": "EBC",
+              "size": 7813
             },
             {
-              "name": "Pomerleau",
-              "children": [
-                {
-                  "value1": 10657,
-                  "value2": 6607
-                }
-              ]
+              "metro": "Pomerleau",
+              "size": 10657
             },
             {
-              "name": "TCI (Groupe) [Transelec / Common]",
-              "children": [
-                {
-                  "value1": 969,
-                  "value2": 688
-                }
-              ]
+              "metro": "TCI (Groupe) [Transelec / Common]",
+              "size": 969
             },
             {
-              "name": "Eurovia Québec",
-              "children": [
-                {
-                  "value1": 1891,
-                  "value2": 1740
-                }
-              ]
+              "metro": "Eurovia Québec",
+              "size": 1891
             },
             {
-              "name": "Canam (Groupe)",
-              "children": [
-                {
-                  "value1": 3532,
-                  "value2": 3038
-                }
-              ]
+              "metro": "Canam (Groupe)",
+              "size": 3532
             }
           ]
         }
@@ -1229,22 +659,12 @@
           "name": "Santé",
           "children": [
             {
-              "name": "Vision New Look (Groupe)",
-              "children": [
-                {
-                  "value1": 53252,
-                  "value2": 44199
-                }
-              ]
+              "metro": "Vision New Look (Groupe)",
+              "size": 53252
             },
             {
-              "name": "Pfizer Canada",
-              "children": [
-                {
-                  "value1": 40144,
-                  "value2": 12445
-                }
-              ]
+              "metro": "Pfizer Canada",
+              "size": 40144
             }
           ]
         }
