@@ -9,35 +9,35 @@
           "children": [
             {
               "name": "Metro",
-              "size2": 421336
+              "sizeQC": 421336
             },
             {
               "name": "Super C",
-              "size2": 169919
+              "sizeQC": 169919
             },
             {
               "name": "IGA",
-              "size2": 743796
+              "sizeQC": 743796
             },
             {
               "name": "Loblaws",
-              "size2": 15868
+              "sizeQC": 15868
             },
             {
               "name": "Provigo",
-              "size2": 125446
+              "sizeQC": 125446
             },
             {
               "name": "Maxi",
-              "size2": 211458
+              "sizeQC": 211458
             },
             {
               "name": "Alimentation Couche-Tard",
-              "size2": 50675
+              "sizeQC": 50675
             },
             {
               "name": "Saputo",
-              "size2": 11635
+              "sizeQC": 11635
             }
           ]
         },
@@ -46,19 +46,19 @@
           "children": [
             {
               "name": "Jean Coutu",
-              "size2": 1136505
+              "sizeQC": 1136505
             },
             {
               "name": "Brunet",
-              "size2": 204481
+              "sizeQC": 204481
             },
             {
               "name": "Familiprix",
-              "size2": 436564
+              "sizeQC": 436564
             },
             {
               "name": "Vision New Look (Groupe)",
-              "size2": 44199
+              "sizeQC": 44199
             }
           ]
         },
@@ -67,19 +67,19 @@
           "children": [
             {
               "name": "Mcdonald",
-              "size2": 303090
+              "sizeQC": 303090
             },
             {
               "name": "St-Hubert (Groupe)",
-              "size2": 463479
+              "sizeQC": 463479
             },
             {
               "name": "Sportscene (Groupe)",
-              "size2": 79561
+              "sizeQC": 79561
             },
             {
               "name": "Boston Pizza International",
-              "size2": 101018
+              "sizeQC": 101018
             }
           ]
         },
@@ -88,47 +88,47 @@
           "children": [
             {
               "name": "Walmart Canada",
-              "size2": 3202907
+              "sizeQC": 3202907
             },
             {
               "name": "Lowe's Canada",
-              "size2": 1202567
+              "sizeQC": 1202567
             },
             {
               "name": "Costco (Les entrepôts)",
-              "size2": 1371448
+              "sizeQC": 1371448
             },
             {
               "name": "Dollarama",
-              "size2": 260547
+              "sizeQC": 260547
             },
             {
               "name": "Canac",
-              "size2": 755050
+              "sizeQC": 755050
             },
             {
               "name": "Home Depot",
-              "size2": 1199389
+              "sizeQC": 1199389
             },
             {
               "name": "ALDO (Le Groupe)",
-              "size2": 165979
+              "sizeQC": 165979
             },
             {
               "name": "Bureau en gros",
-              "size2": 91396
+              "sizeQC": 91396
             },
             {
               "name": "IKEA Canada",
-              "size2": 1763717
+              "sizeQC": 1763717
             },
             {
               "name": "Best Buy Canada",
-              "size2": 1770585
+              "sizeQC": 1770585
             },
             {
               "name": "Marie-Claire (Groupe)",
-              "size2": 9666
+              "sizeQC": 9666
             }
           ]
         },
@@ -137,11 +137,11 @@
           "children": [
             {
               "name": "Ubisoft Divertissements",
-              "size2": 144445
+              "sizeQC": 144445
             },
             {
               "name": "Keywords Studios",
-              "size2": 1987
+              "sizeQC": 1987
             }
           ]
         },
@@ -150,7 +150,7 @@
           "children": [
             {
               "name": "Agropur coopérative",
-              "size2": 11476
+              "sizeQC": 11476
             }
           ]
         },
@@ -159,27 +159,27 @@
           "children": [
             {
               "name": "BRP (Bombardier Produits Récréatifs)",
-              "size2": 57174
+              "sizeQC": 57174
             },
             {
               "name": "Sea-Doo",
-              "size2": 7946
+              "sizeQC": 7946
             },
             {
               "name": "Ski-Doo",
-              "size2": 47591
+              "sizeQC": 47591
             },
             {
               "name": "Can-am",
-              "size2": 57174
+              "sizeQC": 57174
             },
             {
               "name": "HGrégoire",
-              "size2": 154204
+              "sizeQC": 154204
             },
             {
               "name": "UAP - Napa",
-              "size2": 86147
+              "sizeQC": 86147
             }
           ]
         }
@@ -193,35 +193,35 @@
           "children": [
             {
               "name": "Desjardins",
-              "size2": 5745141
+              "sizeQC": 5745141
             },
             {
               "name": "Banque Nationale",
-              "size2": 1238880
+              "sizeQC": 1238880
             },
             {
               "name": "Banque Royale du Canada",
-              "size2": 1149594
+              "sizeQC": 1149594
             },
             {
               "name": "Banque TD (Groupe)",
-              "size2": 680662
+              "sizeQC": 680662
             },
             {
               "name": "BMO Groupe financier",
-              "size2": 787905
+              "sizeQC": 787905
             },
             {
               "name": "Banque CIBC",
-              "size2": 314930
+              "sizeQC": 314930
             },
             {
               "name": "Banque Laurentienne Groupe Financier",
-              "size2": 396334
+              "sizeQC": 396334
             },
             {
               "name": "Banque Scotia",
-              "size2": 377706
+              "sizeQC": 377706
             }
           ]
         },
@@ -230,31 +230,31 @@
           "children": [
             {
               "name": "Intact Corporation financière",
-              "size2": 82804
+              "sizeQC": 82804
             },
             {
               "name": "iA Groupe financier [anc. Industrielle Alliance]",
-              "size2": 157542
+              "sizeQC": 157542
             },
             {
               "name": "La Capitale Assurance et services financiers",
-              "size2": 144539
+              "sizeQC": 144539
             },
             {
               "name": "Financière Sun Life",
-              "size2": 105628
+              "sizeQC": 105628
             },
             {
               "name": "Manuvie",
-              "size2": 19843
+              "sizeQC": 19843
             },
             {
               "name": "Promutuel (Groupe)",
-              "size2": 42987
+              "sizeQC": 42987
             },
             {
               "name": "SSQ Assurance",
-              "size2": 155081
+              "sizeQC": 155081
             }
           ]
         },
@@ -263,11 +263,11 @@
           "children": [
             {
               "name": "Power Corporation du Canada",
-              "size2": 3612
+              "sizeQC": 3612
             },
             {
               "name": "Raymond Chabot Grant Thornton",
-              "size2": 22126
+              "sizeQC": 22126
             }
           ]
         }
@@ -281,7 +281,7 @@
           "children": [
             {
               "name": "Hydro-Québec",
-              "size2": 982720
+              "sizeQC": 982720
             }
           ]
         },
@@ -290,7 +290,7 @@
           "children": [
             {
               "name": "Société de transport de Montréal (STM)",
-              "size2": 1213649
+              "sizeQC": 1213649
             }
           ]
         },
@@ -299,7 +299,7 @@
           "children": [
             {
               "name": "Loto-Québec",
-              "size2": 2748894
+              "sizeQC": 2748894
             }
           ]
         },
@@ -308,7 +308,7 @@
           "children": [
             {
               "name": "Société des Alcools du Québec (SAQ)",
-              "size2": 1187218
+              "sizeQC": 1187218
             }
           ]
         },
@@ -317,7 +317,7 @@
           "children": [
             {
               "name": "Société de l'assurance automobile du Québec",
-              "size2": 6310262
+              "sizeQC": 6310262
             }
           ]
         },
@@ -326,7 +326,7 @@
           "children": [
             {
               "name": "Caisse de dépôt et placement du Québec",
-              "size2": 9966
+              "sizeQC": 9966
             }
           ]
         }
@@ -340,11 +340,11 @@
           "children": [
             {
               "name": "Bombardier",
-              "size2": 1486921
+              "sizeQC": 1486921
             },
             {
               "name": "Pratt & Whitney Canada",
-              "size2": 12613
+              "sizeQC": 12613
             }
           ]
         },
@@ -353,11 +353,11 @@
           "children": [
             {
               "name": "La Coop fédérée",
-              "size2": 4612
+              "sizeQC": 4612
             },
             {
               "name": "Exceldor coopérative",
-              "size2": 19018
+              "sizeQC": 19018
             }
           ]
         },
@@ -366,31 +366,31 @@
           "children": [
             {
               "name": "Rio Tinto",
-              "size2": 11475
+              "sizeQC": 11475
             },
             {
               "name": "Produits forestiers Résolu",
-              "size2": 4523
+              "sizeQC": 4523
             },
             {
               "name": "Cascades",
-              "size2": 10917
+              "sizeQC": 10917
             },
             {
               "name": "Kruger",
-              "size2": 8337
+              "sizeQC": 8337
             },
             {
               "name": "ArcelorMittal Exploitation minière Canada",
-              "size2": 2220
+              "sizeQC": 2220
             },
             {
               "name": "AIM - Fer & Métaux Américains",
-              "size2": 3243
+              "sizeQC": 3243
             },
             {
               "name": "WestRock",
-              "size2": 5048
+              "sizeQC": 5048
             }
           ]
         },
@@ -399,7 +399,7 @@
           "children": [
             {
               "name": "Pfizer Canada",
-              "size2": 12445
+              "sizeQC": 12445
             }
           ]
         }
@@ -413,35 +413,35 @@
           "children": [
             {
               "name": "Bell",
-              "size2": 819437
+              "sizeQC": 819437
             },
             {
               "name": "RDS",
-              "size2": 1278752
+              "sizeQC": 1278752
             },
             {
               "name": "Canal D",
-              "size2": 26155
+              "sizeQC": 26155
             },
             {
               "name": "Canal Vie",
-              "size2": 850559
+              "sizeQC": 850559
             },
             {
               "name": "TSN",
-              "size2": 214565
+              "sizeQC": 214565
             },
             {
               "name": "Vidéotron",
-              "size2": 1473519
+              "sizeQC": 1473519
             },
             {
               "name": "Journal de Montréal",
-              "size2": 2411016
+              "sizeQC": 2411016
             },
             {
               "name": "CBC/Radio-Canada",
-              "size2": 2328312
+              "sizeQC": 2328312
             }
           ]
         },
@@ -450,27 +450,27 @@
           "children": [
             {
               "name": "Québecor",
-              "size2": 16930
+              "sizeQC": 16930
             },
             {
               "name": "TELUS",
-              "size2": 343584
+              "sizeQC": 343584
             },
             {
               "name": "Rogers Communications",
-              "size2": 266263
+              "sizeQC": 266263
             },
             {
               "name": "TC Transcontinental",
-              "size2": 5475
+              "sizeQC": 5475
             },
             {
               "name": "COGECO",
-              "size2": 129146
+              "sizeQC": 129146
             },
             {
               "name": "Telecon",
-              "size2": 2414
+              "sizeQC": 2414
             }
           ]
         },
@@ -479,11 +479,11 @@
           "children": [
             {
               "name": "CGI",
-              "size2": 25972
+              "sizeQC": 25972
             },
             {
               "name": "ABB",
-              "size2": 34369
+              "sizeQC": 34369
             }
           ]
         }
@@ -497,15 +497,15 @@
           "children": [
             {
               "name": "GardaWorld (Corporation de sécurité Garda World)",
-              "size2": 20227
+              "sizeQC": 20227
             },
             {
               "name": "Securitas",
-              "size2": 4128
+              "sizeQC": 4128
             },
             {
               "name": "Gardium Sécurité",
-              "size2": 944
+              "sizeQC": 944
             }
           ]
         },
@@ -514,11 +514,11 @@
           "children": [
             {
               "name": "GDI Services aux Immeubles",
-              "size2": 4575
+              "sizeQC": 4575
             },
             {
               "name": "Services Ménagers Roy (Les)",
-              "size2": 1893
+              "sizeQC": 1893
             }
           ]
         },
@@ -527,7 +527,7 @@
           "children": [
             {
               "name": "Compass (Groupe)",
-              "size2": 2018
+              "sizeQC": 2018
             }
           ]
         },
@@ -536,27 +536,27 @@
           "children": [
             {
               "name": "CAE",
-              "size2": 13913
+              "sizeQC": 13913
             },
             {
               "name": "Deloitte",
-              "size2": 22963
+              "sizeQC": 22963
             },
             {
               "name": "Nordia",
-              "size2": 5117
+              "sizeQC": 5117
             },
             {
               "name": "CoFoMo",
-              "size2": 2290
+              "sizeQC": 2290
             },
             {
               "name": "Drakkar",
-              "size2": 4147
+              "sizeQC": 4147
             },
             {
               "name": "Morneau Shepell",
-              "size2": 12499
+              "sizeQC": 12499
             }
           ]
         }
@@ -570,19 +570,19 @@
           "children": [
             {
               "name": "Air Canada",
-              "size2": 810829
+              "sizeQC": 810829
             },
             {
               "name": "CN [Canadien National]",
-              "size2": 29251
+              "sizeQC": 29251
             },
             {
               "name": "Transat A.T.",
-              "size2": 250993
+              "sizeQC": 250993
             },
             {
               "name": "Via Rail Canada",
-              "size2": 404795
+              "sizeQC": 404795
             }
           ]
         },
@@ -591,11 +591,11 @@
           "children": [
             {
               "name": "Robert (Groupe)",
-              "size2": 8804
+              "sizeQC": 8804
             },
             {
               "name": "UPS Canada",
-              "size2": 204960
+              "sizeQC": 204960
             }
           ]
         }
@@ -609,19 +609,19 @@
           "children": [
             {
               "name": "Sélection (Groupe) [anc. Réseau Sélection]",
-              "size2": 12210
+              "sizeQC": 12210
             },
             {
               "name": "Cogir Immobilier",
-              "size2": 9125
+              "sizeQC": 9125
             },
             {
               "name": "Savoie (Groupe)",
-              "size2": 10046
+              "sizeQC": 10046
             },
             {
               "name": "Maurice (Groupe)",
-              "size2": 23511
+              "sizeQC": 23511
             }
           ]
         },
@@ -630,31 +630,31 @@
           "children": [
             {
               "name": "SNC-Lavalin (Groupe)",
-              "size2": 27074
+              "sizeQC": 27074
             },
             {
               "name": "WSP Global (Groupe)",
-              "size2": 12769
+              "sizeQC": 12769
             },
             {
               "name": "EBC",
-              "size2": 4453
+              "sizeQC": 4453
             },
             {
               "name": "Pomerleau",
-              "size2": 6607
+              "sizeQC": 6607
             },
             {
               "name": "TCI (Groupe) [Transelec / Common]",
-              "size2": 688
+              "sizeQC": 688
             },
             {
               "name": "Eurovia Québec",
-              "size2": 1740
+              "sizeQC": 1740
             },
             {
               "name": "Canam (Groupe)",
-              "size2": 3038
+              "sizeQC": 3038
             }
           ]
         }
