@@ -1,0 +1,678 @@
+{
+  "name": "flare",
+  "children": [
+    {
+      "name": "Segment",
+      "children": [
+        {
+          "name": "Secteur",
+          "children": [
+            {
+              "name": "Filiale",
+              "size": "Trafic Organique Mensuel QC"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Consommation",
+      "children": [
+        {
+          "name": "Alimentation",
+          "children": [
+            {
+              "name": "Metro",
+              "size": 421336
+            },
+            {
+              "name": "Super C",
+              "size": 169919
+            },
+            {
+              "name": "IGA",
+              "size": 743796
+            },
+            {
+              "name": "Loblaws",
+              "size": 15868
+            },
+            {
+              "name": "Provigo",
+              "size": 125446
+            },
+            {
+              "name": "Maxi",
+              "size": 211458
+            },
+            {
+              "name": "Alimentation Couche-Tard",
+              "size": 50675
+            },
+            {
+              "name": "Saputo",
+              "size": 11635
+            }
+          ]
+        },
+        {
+          "name": "Santé",
+          "children": [
+            {
+              "name": "Jean Coutu",
+              "size": 1136505
+            },
+            {
+              "name": "Brunet",
+              "size": 204481
+            },
+            {
+              "name": "Familiprix",
+              "size": 436564
+            },
+            {
+              "name": "Vision New Look (Groupe)",
+              "size": 44199
+            }
+          ]
+        },
+        {
+          "name": "Restauration",
+          "children": [
+            {
+              "name": "Mcdonald",
+              "size": 303090
+            },
+            {
+              "name": "St-Hubert (Groupe)",
+              "size": 463479
+            },
+            {
+              "name": "Sportscene (Groupe)",
+              "size": 79561
+            },
+            {
+              "name": "Boston Pizza International",
+              "size": 101018
+            }
+          ]
+        },
+        {
+          "name": "Vente au détail",
+          "children": [
+            {
+              "name": "Walmart Canada",
+              "size": 3202907
+            },
+            {
+              "name": "Lowe's Canada",
+              "size": 1202567
+            },
+            {
+              "name": "Costco (Les entrepôts)",
+              "size": 1371448
+            },
+            {
+              "name": "Dollarama",
+              "size": 260547
+            },
+            {
+              "name": "Canac",
+              "size": 755050
+            },
+            {
+              "name": "Home Depot",
+              "size": 1199389
+            },
+            {
+              "name": "ALDO (Le Groupe)",
+              "size": 165979
+            },
+            {
+              "name": "Bureau en gros",
+              "size": 91396
+            },
+            {
+              "name": "IKEA Canada",
+              "size": 1763717
+            },
+            {
+              "name": "Best Buy Canada",
+              "size": 1770585
+            },
+            {
+              "name": "Marie-Claire (Groupe)",
+              "size": 9666
+            }
+          ]
+        },
+        {
+          "name": "Divertissement",
+          "children": [
+            {
+              "name": "Ubisoft Divertissements",
+              "size": 144445
+            },
+            {
+              "name": "Keywords Studios",
+              "size": 1987
+            }
+          ]
+        },
+        {
+          "name": "Agroalimentaire",
+          "children": [
+            {
+              "name": "Agropur coopérative",
+              "size": 11476
+            }
+          ]
+        },
+        {
+          "name": "Véhicule",
+          "children": [
+            {
+              "name": "BRP (Bombardier Produits Récréatifs)",
+              "size": 57174
+            },
+            {
+              "name": "Sea-Doo",
+              "size": 7946
+            },
+            {
+              "name": "Ski-Doo",
+              "size": 47591
+            },
+            {
+              "name": "Can-am",
+              "size": 57174
+            },
+            {
+              "name": "HGrégoire",
+              "size": 154204
+            },
+            {
+              "name": "UAP - Napa",
+              "size": 86147
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Services Financiers",
+      "children": [
+        {
+          "name": "Banque",
+          "children": [
+            {
+              "name": "Desjardins",
+              "size": 5745141
+            },
+            {
+              "name": "Banque Nationale",
+              "size": 1238880
+            },
+            {
+              "name": "Banque Royale du Canada",
+              "size": 1149594
+            },
+            {
+              "name": "Banque TD (Groupe)",
+              "size": 680662
+            },
+            {
+              "name": "BMO Groupe financier",
+              "size": 787905
+            },
+            {
+              "name": "Banque CIBC",
+              "size": 314930
+            },
+            {
+              "name": "Banque Laurentienne Groupe Financier",
+              "size": 396334
+            },
+            {
+              "name": "Banque Scotia",
+              "size": 377706
+            }
+          ]
+        },
+        {
+          "name": "Assurance",
+          "children": [
+            {
+              "name": "Intact Corporation financière",
+              "size": 82804
+            },
+            {
+              "name": "iA Groupe financier [anc. Industrielle Alliance]",
+              "size": 157542
+            },
+            {
+              "name": "La Capitale Assurance et services financiers",
+              "size": 144539
+            },
+            {
+              "name": "Financière Sun Life",
+              "size": 105628
+            },
+            {
+              "name": "Manuvie",
+              "size": 19843
+            },
+            {
+              "name": "Promutuel (Groupe)",
+              "size": 42987
+            },
+            {
+              "name": "SSQ Assurance",
+              "size": 155081
+            }
+          ]
+        },
+        {
+          "name": "Service Financier",
+          "children": [
+            {
+              "name": "Power Corporation du Canada",
+              "size": 3612
+            },
+            {
+              "name": "Raymond Chabot Grant Thornton",
+              "size": 22126
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Sociétés d'État et Collectivité",
+      "children": [
+        {
+          "name": "Énergie",
+          "children": [
+            {
+              "name": "Hydro-Québec",
+              "size": 982720
+            }
+          ]
+        },
+        {
+          "name": "Transport",
+          "children": [
+            {
+              "name": "Société de transport de Montréal (STM)",
+              "size": 1213649
+            }
+          ]
+        },
+        {
+          "name": "Lotterie",
+          "children": [
+            {
+              "name": "Loto-Québec",
+              "size": 2748894
+            }
+          ]
+        },
+        {
+          "name": "Alimentation",
+          "children": [
+            {
+              "name": "Société des Alcools du Québec (SAQ)",
+              "size": 1187218
+            }
+          ]
+        },
+        {
+          "name": "Assurance automobile",
+          "children": [
+            {
+              "name": "Société de l'assurance automobile du Québec",
+              "size": 6310262
+            }
+          ]
+        },
+        {
+          "name": "Patrimoine",
+          "children": [
+            {
+              "name": "Caisse de dépôt et placement du Québec",
+              "size": 9966
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Industrie",
+      "children": [
+        {
+          "name": "Aérospatiale",
+          "children": [
+            {
+              "name": "Bombardier",
+              "size": 1486921
+            },
+            {
+              "name": "Pratt & Whitney Canada",
+              "size": 12613
+            }
+          ]
+        },
+        {
+          "name": "Agroalimentaire",
+          "children": [
+            {
+              "name": "La Coop fédérée",
+              "size": 4612
+            },
+            {
+              "name": "Exceldor coopérative",
+              "size": 19018
+            }
+          ]
+        },
+        {
+          "name": "Transformation",
+          "children": [
+            {
+              "name": "Rio Tinto",
+              "size": 11475
+            },
+            {
+              "name": "Produits forestiers Résolu",
+              "size": 4523
+            },
+            {
+              "name": "Cascades",
+              "size": 10917
+            },
+            {
+              "name": "Kruger",
+              "size": 8337
+            },
+            {
+              "name": "ArcelorMittal Exploitation minière Canada",
+              "size": 2220
+            },
+            {
+              "name": "AIM - Fer & Métaux Américains",
+              "size": 3243
+            },
+            {
+              "name": "WestRock",
+              "size": 5048
+            }
+          ]
+        },
+        {
+          "name": "Pharmaceutique",
+          "children": [
+            {
+              "name": "Pfizer Canada",
+              "size": 12445
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Technologie de l'information",
+      "children": [
+        {
+          "name": "Médias",
+          "children": [
+            {
+              "name": "Bell",
+              "size": 819437
+            },
+            {
+              "name": "RDS",
+              "size": 1278752
+            },
+            {
+              "name": "Canal D",
+              "size": 26155
+            },
+            {
+              "name": "Canal Vie",
+              "size": 850559
+            },
+            {
+              "name": "TSN",
+              "size": 214565
+            },
+            {
+              "name": "Vidéotron",
+              "size": 1473519
+            },
+            {
+              "name": "Journal de Montréal",
+              "size": 2411016
+            },
+            {
+              "name": "CBC/Radio-Canada",
+              "size": 2328312
+            }
+          ]
+        },
+        {
+          "name": "Communication",
+          "children": [
+            {
+              "name": "Québecor",
+              "size": 16930
+            },
+            {
+              "name": "TELUS",
+              "size": 343584
+            },
+            {
+              "name": "Rogers Communications",
+              "size": 266263
+            },
+            {
+              "name": "TC Transcontinental",
+              "size": 5475
+            },
+            {
+              "name": "COGECO",
+              "size": 129146
+            },
+            {
+              "name": "Telecon",
+              "size": 2414
+            }
+          ]
+        },
+        {
+          "name": "Technologie",
+          "children": [
+            {
+              "name": "CGI",
+              "size": 25972
+            },
+            {
+              "name": "ABB",
+              "size": 34369
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Services au Entreprises",
+      "children": [
+        {
+          "name": "Sécurité",
+          "children": [
+            {
+              "name": "GardaWorld (Corporation de sécurité Garda World)",
+              "size": 20227
+            },
+            {
+              "name": "Securitas",
+              "size": 4128
+            },
+            {
+              "name": "Gardium Sécurité",
+              "size": 944
+            }
+          ]
+        },
+        {
+          "name": "Entretien",
+          "children": [
+            {
+              "name": "GDI Services aux Immeubles",
+              "size": 4575
+            },
+            {
+              "name": "Services Ménagers Roy (Les)",
+              "size": 1893
+            }
+          ]
+        },
+        {
+          "name": "Alimentation",
+          "children": [
+            {
+              "name": "Compass (Groupe)",
+              "size": 2018
+            }
+          ]
+        },
+        {
+          "name": "Conseils / Gestion",
+          "children": [
+            {
+              "name": "CAE",
+              "size": 13913
+            },
+            {
+              "name": "Deloitte",
+              "size": 22963
+            },
+            {
+              "name": "Nordia",
+              "size": 5117
+            },
+            {
+              "name": "CoFoMo",
+              "size": 2290
+            },
+            {
+              "name": "Drakkar",
+              "size": 4147
+            },
+            {
+              "name": "Morneau Shepell",
+              "size": 12499
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Transport",
+      "children": [
+        {
+          "name": "Transport",
+          "children": [
+            {
+              "name": "Air Canada",
+              "size": 810829
+            },
+            {
+              "name": "CN [Canadien National]",
+              "size": 29251
+            },
+            {
+              "name": "Transat A.T.",
+              "size": 250993
+            },
+            {
+              "name": "Via Rail Canada",
+              "size": 404795
+            }
+          ]
+        },
+        {
+          "name": "Transport de marchandise",
+          "children": [
+            {
+              "name": "Robert (Groupe)",
+              "size": 8804
+            },
+            {
+              "name": "UPS Canada",
+              "size": 204960
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Immobilier",
+      "children": [
+        {
+          "name": "Immobilier",
+          "children": [
+            {
+              "name": "Sélection (Groupe) [anc. Réseau Sélection]",
+              "size": 12210
+            },
+            {
+              "name": "Cogir Immobilier",
+              "size": 9125
+            },
+            {
+              "name": "Savoie (Groupe)",
+              "size": 10046
+            },
+            {
+              "name": "Maurice (Groupe)",
+              "size": 23511
+            }
+          ]
+        },
+        {
+          "name": "Ingénierie",
+          "children": [
+            {
+              "name": "SNC-Lavalin (Groupe)",
+              "size": 27074
+            },
+            {
+              "name": "WSP Global (Groupe)",
+              "size": 12769
+            },
+            {
+              "name": "EBC",
+              "size": 4453
+            },
+            {
+              "name": "Pomerleau",
+              "size": 6607
+            },
+            {
+              "name": "TCI (Groupe) [Transelec / Common]",
+              "size": 688
+            },
+            {
+              "name": "Eurovia Québec",
+              "size": 1740
+            },
+            {
+              "name": "Canam (Groupe)",
+              "size": 3038
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
