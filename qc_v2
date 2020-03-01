@@ -2,20 +2,6 @@
   "name": "flare",
   "children": [
     {
-      "name": "Segment",
-      "children": [
-        {
-          "name": "Secteur",
-          "children": [
-            {
-              "name": "Filiale",
-              "size": "Trafic Organique Mensuel QC"
-            }
-          ]
-        }
-      ]
-    },
-    {
       "name": "Consommation",
       "children": [
         {
